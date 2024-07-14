@@ -1,4 +1,4 @@
-## P2P media share application
+## P2P media share application for low latency
 - View Demo on: 
 ```jsx 
 https://drive.google.com/file/d/1hrEqipaMFJM5kRy_giaYAizQh8ZZHznk/view?usp=sharing
